@@ -9,8 +9,7 @@
 % Assign variable names "Hes1_raw_traces" to the imported traces 
 % These are 1 x n (n is number of cells, i.e. 152 in our work) arrays where each item is a time series trace vector.
 
-load array_of_cells
-Hes1_raw_traces = array_of_cells{2};
+%       Hes1_raw_traces = Insert data here;
 
 % Preallocate vectors and arrays
 
